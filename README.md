@@ -1,8 +1,8 @@
 # About Me
 
-Hi there! I'm Karl, a high school student in 11th grade based in Berlin, Germany 🇩🇪.
+Hi there! I'm Karl, and currently studying electrical engineering in Freiburg, Germany 🇩🇪.
 
-I'm passionate about Hardware, Coding, Robotics, Cars and want to become an Electrical Engineer later.
+I'm passionate about Hardware, Coding, Robotics, Cars and more.
 
 ## My Background
 
