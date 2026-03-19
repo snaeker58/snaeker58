@@ -6,4 +6,4 @@ I'm passionate about Hardware, Coding, Robotics, Cars and more.
 
 ## My Background
 
-I've suck ass in many different programing languages (Python, C#, JavaScript, Java, Rust) and also have designed some robots and thingies in Fusion 360. I primarly care about hardware.
+I suck ass in many different programing languages (Python, C#, JavaScript, Java, Rust) and also have designed some robots and thingies in Fusion 360. I primarly care about hardware.
